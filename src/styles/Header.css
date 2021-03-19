@@ -1,0 +1,31 @@
+.Navbar {
+    width: 100%;
+    padding: 0.5rem 0;
+    background-color: #ffffff;
+  }
+  
+  .Navbar__brand {
+    color: #ffffff;
+  
+    display: flex;
+    align-items: center;
+  }
+  
+  .Nar__brandvba:hover {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  .Navbar__brand-logo {
+    margin-right: 0.5rem;
+  }
+  .btn-orange {
+    background-color: orange;
+  }
+  .App {
+    padding-top: 36px;
+  
+    text-align: center;
+  }
+  
+  
